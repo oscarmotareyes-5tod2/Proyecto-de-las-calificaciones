@@ -22,10 +22,22 @@
   <li>El promedio en un messajebox</li>
 </ul>
 <br>
-<h3>Anexos</h3>
+<h3>Anexos:</h3>
 
+<h4>-Inicio</h4>
+<img src="imgs/inicio.png" width= 400px>
+<br>
+<h4>-Aprobado</h4>
+<img src="imgs/aprobado.png" width= 400px>
+<br>
+<h4>-Y si Reprobo....</h4>
+<img src="imgs/reprobado.png" width= 400px>
+<br>
+<h4>-Mensaje de Guardado</h4>
+<img src="imgs/guardado.png" width= 400px>
+<br>
 
-## <b>Gracias por visitar este portaf  olio</b>
+## <b>Gracias por visitar este portafolio</b>
 
 </div>
 
